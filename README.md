@@ -1,4 +1,4 @@
-Needham High Robotics
+🤖Needham High Robotics🤖
 =====================
 
 We are a high school robotics club at Needham High School in Needham, Massachusetts.
