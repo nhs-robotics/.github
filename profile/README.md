@@ -1,4 +1,4 @@
-🤖 Needham High Robotics
+ Needham High Robotics
 =====================
 
 We are a high school robotics club at Needham High School in Needham, Massachusetts.
@@ -15,22 +15,22 @@ Our mission is to design, build, and compete with innovative robots while foster
 
 ### Goals
 
-💡 To develop critical thinking, problem-solving, and programming skills
+ To develop critical thinking, problem-solving, and programming skills
 
-🔬 To promote STEM education and awareness in our community
+ To promote STEM education and awareness in our community
 
-🚀 To compete at the highest level in FTC competitions
+ To compete at the highest level in FTC competitions
 
 ### Values
 
-🤝 Collaboration: We work together as a team to achieve our goals
+ Collaboration: We work together as a team to achieve our goals
 
-💡 Innovation: We encourage creative solutions and outside-the-box thinking
+ Innovation: We encourage creative solutions and outside-the-box thinking
 
-🌎 Inclusion: We welcome students of all backgrounds and skill levels
+ Inclusion: We welcome students of all backgrounds and skill levels
 
-💪 Perseverance: We learn from our mistakes and never give up
+ Perseverance: We learn from our mistakes and never give up
 
 ### Contact Us
 
-📬 Email: coming soon
+ Email: coming soon
